@@ -12,12 +12,6 @@ const WelcomeScreen = () => {
                     Find the weather of your city
                 </Typography>
             </Box>
-            <Box>
-                <Box
-                    component="img"
-                    src="/img/weather-img.svg"
-                />
-            </Box>
         </>
     );
 };
