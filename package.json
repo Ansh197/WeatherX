@@ -1,6 +1,6 @@
 {
   "homepage": "http://Ansh197.github.io/WeatherX",
-  "name": "weather-app",
+  "name": "WeatherX",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
